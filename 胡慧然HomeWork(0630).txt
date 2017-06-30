@@ -1,11 +1,11 @@
 Position://角色表
-PositionId(PK)	PositionName	Password
+PositionId(PK)	PositionName	Password    Type
 
-HR://HR表
-PositionId(PK)	HrFunction
+Type://角色类型表
+Type	Function	AuthorityID
 
-GM://管理员表
-PositionId(PK)	GmFunction
+Authority://权限表 
+AuthorityID	Authority
 
 Applicants://应聘者表
 ApplicantsId(PK) ApplicantsName SelectPostId ResumeId Question1ID Question2ID	
@@ -20,7 +20,10 @@ Resume://简历表
 ResumeId(PK) PeopBaseInfoId PeopWorkExpId PeopEduExId PeopBaseSkillId PeopFmilId PeopSelfIntroId Fraction
 
 PeopBase://基本信息表
-PeopBaseInfoId(PK) Name Gender Age Height IdCard IdType IsMarry WorkTime Salary Address Email
+PeopBaseInfoId(PK) Name Gender Age Height IdCard TypeId IsMarry WorkTime Salary Address Email
+
+Type://证件类型表 
+TypeId(PK) Name
 
 PeopWorkExp://工作经历表
 PeopWorkExpId(PK) Time CompName Industry Nature Position Description
@@ -38,10 +41,16 @@ PeopSelfIntro://自我评价表
 PeopSelfIntroId SelfEvaluation
  
 Question1://问卷1表
-Question1ID(PK) Question1_1 Question1_2 Question1_3 Question1_4 Question1_5 Question1Reuslt
+Question1ID(PK) Question1_1 Question1_2 Question1_3 Question1_4 Question1_5
+ 
+Answer1://问卷1表回答
+Question1ID(PK) Answer1_1 Answer1_2 Answer1_3 Answer1_4 Answer1_5 Result
+
+Answer2://问卷2表回答
+Question2ID(PK) Answer2_1 Answer2_2 Answer2_3 Answer2_4 Answer2_5 Result
 
 Question2://问卷2表
-Question2ID(PK) Question2_1 Question2_2 Question2_3 Question2_4 Question2_5 Question1Reuslt
+Question2ID(PK) Question2_1 Question2_2 Question2_3 Question2_4 Question2_5 
 
 QuestionBox://题库
 QuestionID(PK) Type Name Question IsMulSel Answer 
