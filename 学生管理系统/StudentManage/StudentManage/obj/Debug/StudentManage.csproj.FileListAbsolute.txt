@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\bin\Debug\StudentManage.exe.config
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\bin\Debug\StudentManage.exe
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\bin\Debug\StudentManage.pdb
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.MainForm.resources
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.Properties.Resources.resources
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.exe
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.pdb
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.StudentManage.resources
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.PasswordChange.resources
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.AddChangeStudent.resources
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\学生管理系统\StudentManage\StudentManage\obj\Debug\StudentManage.SelectStudent.resources
