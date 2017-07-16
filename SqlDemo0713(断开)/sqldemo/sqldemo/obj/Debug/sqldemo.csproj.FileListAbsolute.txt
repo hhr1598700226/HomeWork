@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\SqlDemo0713(断开)\sqldemo\sqldemo\bin\Debug\sqldemo.exe.config
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\SqlDemo0713(断开)\sqldemo\sqldemo\bin\Debug\sqldemo.exe
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\SqlDemo0713(断开)\sqldemo\sqldemo\bin\Debug\sqldemo.pdb
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\SqlDemo0713(断开)\sqldemo\sqldemo\obj\Debug\sqldemo.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\SqlDemo0713(断开)\sqldemo\sqldemo\obj\Debug\sqldemo.exe
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\SqlDemo0713(断开)\sqldemo\sqldemo\obj\Debug\sqldemo.pdb
