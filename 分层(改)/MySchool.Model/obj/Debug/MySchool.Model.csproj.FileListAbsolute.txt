@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\测试可删\WindowsFormsApplication1\MySchool.Model\bin\Debug\MySchool.Model.dll
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\测试可删\WindowsFormsApplication1\MySchool.Model\bin\Debug\MySchool.Model.pdb
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\测试可删\WindowsFormsApplication1\MySchool.Model\obj\Debug\MySchool.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\测试可删\WindowsFormsApplication1\MySchool.Model\obj\Debug\MySchool.Model.dll
+C:\Users\Administrator\Desktop\NET班胡慧然20170707\测试可删\WindowsFormsApplication1\MySchool.Model\obj\Debug\MySchool.Model.pdb
